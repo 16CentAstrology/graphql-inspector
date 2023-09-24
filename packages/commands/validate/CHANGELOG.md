@@ -1,5 +1,18 @@
 # @graphql-inspector/validate-command
 
+## 4.0.3
+
+### Patch Changes
+
+- [#2571](https://github.com/kamilkisiela/graphql-inspector/pull/2571)
+  [`196070f5`](https://github.com/kamilkisiela/graphql-inspector/commit/196070f5069948701d0a23c94a7aee82217f3528)
+  Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency
+    [`@graphql-tools/utils@10.0.3` ↗︎](https://www.npmjs.com/package/@graphql-tools/utils/v/10.0.3)
+    (from `10.0.1`, in `dependencies`)
+- Updated dependencies []:
+  - @graphql-inspector/commands@4.0.3
+
 ## 4.0.2
 
 ### Patch Changes

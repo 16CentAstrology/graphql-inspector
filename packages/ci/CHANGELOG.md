@@ -1,5 +1,14 @@
 # @graphql-inspector/ci
 
+## 4.0.3
+
+### Patch Changes
+
+- Updated dependencies
+  [[`196070f5`](https://github.com/kamilkisiela/graphql-inspector/commit/196070f5069948701d0a23c94a7aee82217f3528)]:
+  - @graphql-inspector/loaders@4.0.3
+  - @graphql-inspector/commands@4.0.3
+
 ## 4.0.2
 
 ### Patch Changes
