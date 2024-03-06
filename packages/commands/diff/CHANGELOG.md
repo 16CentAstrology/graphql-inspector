@@ -1,5 +1,12 @@
 # @graphql-inspector/diff-command
 
+## 4.0.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-inspector/commands@4.0.3
+
 ## 4.0.2
 
 ### Patch Changes

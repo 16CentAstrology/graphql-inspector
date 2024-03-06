@@ -1,5 +1,16 @@
 # @graphql-inspector/github
 
+## 4.0.2
+
+### Patch Changes
+
+- [#2571](https://github.com/kamilkisiela/graphql-inspector/pull/2571)
+  [`196070f5`](https://github.com/kamilkisiela/graphql-inspector/commit/196070f5069948701d0a23c94a7aee82217f3528)
+  Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency
+    [`@whatwg-node/fetch@0.9.9` ↗︎](https://www.npmjs.com/package/@whatwg-node/fetch/v/0.9.9) (from
+    `0.9.8`, in `dependencies`)
+
 ## 4.0.1
 
 ### Patch Changes
